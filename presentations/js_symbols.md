@@ -20,7 +20,7 @@ class: invert
   }
 </style>
 
-# ![width:60](./pictures/js_symbols-2020_Q1/js_logo.png) Symbols
+# ![width:60](./pictures/js_symbols/js_logo.png) Symbols
 
 ```js
 Object.prototype[Symbol.iterator] = function* () {
@@ -41,7 +41,7 @@ Object.prototype[Symbol.iterator] = function* () {
   }
 </style>
 
-![bg left:40% 80%](./pictures/js_symbols-2020_Q1/me.jpeg)
+![bg left:40% 80%](./pictures/js_symbols/me.jpeg)
 
 <div>
   <span style="color: var(--red)">narghev</span>
@@ -92,7 +92,7 @@ Object.prototype[Symbol.iterator] = function* () {
 
 ---
 
-### ![width:40](./pictures/js_symbols-2020_Q1/js_logo.png) Symbol
+### ![width:40](./pictures/js_symbols/js_logo.png) Symbol
 
 - Added in 2015 with <span style="color: var(--blue)">**ES6**</span>
 - for acting as a unique identifier of object properties
@@ -100,33 +100,33 @@ Object.prototype[Symbol.iterator] = function* () {
 
 ---
 
-### ![width:40](./pictures/js_symbols-2020_Q1/js_logo.png) Symbol
+### ![width:40](./pictures/js_symbols/js_logo.png) Symbol
 
-![width:750](./pictures/js_symbols-2020_Q1/creating.png)
+![width:750](./pictures/js_symbols/creating.png)
 
 ---
 
-### ![width:40](./pictures/js_symbols-2020_Q1/js_logo.png) Symbol
+### ![width:40](./pictures/js_symbols/js_logo.png) Symbol
 
 Note: <span style="color: var(--blue)">Symbol</span> is <span style="color: var(--red)">**NOT**</span> a constructor and <span style="color: var(--red)">**CANNOT**</span> be called with new
 
-## ![width:1000](./pictures/js_symbols-2020_Q1/constructor_error.png)
+## ![width:1000](./pictures/js_symbols/constructor_error.png)
 
 ---
 
-### ![width:40](./pictures/js_symbols-2020_Q1/js_logo.png) Symbol
+### ![width:40](./pictures/js_symbols/js_logo.png) Symbol
 
 #### Global symbol registry
 
-![width:1100](./pictures/js_symbols-2020_Q1/global.png)
+![width:1100](./pictures/js_symbols/global.png)
 
 ---
 
-### ![width:40](./pictures/js_symbols-2020_Q1/js_logo.png) Symbol
+### ![width:40](./pictures/js_symbols/js_logo.png) Symbol
 
 #### Global symbol registry
 
-![width:900](./pictures/js_symbols-2020_Q1/global_1.png)
+![width:900](./pictures/js_symbols/global_1.png)
 
 ---
 
@@ -140,25 +140,25 @@ Note: <span style="color: var(--blue)">Symbol</span> is <span style="color: var(
 
 ### Using <span style="color: var(--blue)">Symbol</span> as a key
 
-![width:650](./pictures/js_symbols-2020_Q1/as_property.png)
+![width:650](./pictures/js_symbols/as_property.png)
 
 ---
 
 ### Comparing <span style="color: var(--blue)">Symbol</span>s
 
-![width:700](./pictures/js_symbols-2020_Q1/comparison.png)
+![width:700](./pictures/js_symbols/comparison.png)
 
 ---
 
 ### Accessing <span style="color: var(--blue)">Symbol</span>s
 
-![width:900](./pictures/js_symbols-2020_Q1/accessing.png)
+![width:900](./pictures/js_symbols/accessing.png)
 
 ---
 
 ### Comparing Global <span style="color: var(--blue)">Symbol</span>s
 
-![width:900](./pictures/js_symbols-2020_Q1/comparing_global.png)
+![width:900](./pictures/js_symbols/comparing_global.png)
 
 ---
 
@@ -174,7 +174,7 @@ Okay, so <span style="color: var(--blue)">**Symbol**</span>s are cool. They help
 Object.getOwnPropertySymbols();
 ```
 
-![width:1100](./pictures/js_symbols-2020_Q1/privacy.png)
+![width:1100](./pictures/js_symbols/privacy.png)
 
 ---
 
@@ -184,9 +184,9 @@ Object.getOwnPropertySymbols();
 
 ---
 
-### <span style="color: var(--red)">Ruby</span> ![width:60](./pictures/js_symbols-2020_Q1/ruby_logo.png)&#8195;Symbols
+### <span style="color: var(--red)">Ruby</span> ![width:60](./pictures/js_symbols/ruby_logo.png)&#8195;Symbols
 
-![width:800](./pictures/js_symbols-2020_Q1/ruby_symbols.png)
+![width:800](./pictures/js_symbols/ruby_symbols.png)
 
 ---
 
@@ -221,7 +221,7 @@ JavaScript has some built-in symbols which allow the developer to access some pr
 
 ### `Symbol.iterator`
 
-![width:800](./pictures/js_symbols-2020_Q1/iterable.png)
+![width:800](./pictures/js_symbols/iterable.png)
 
 ---
 
@@ -237,7 +237,7 @@ JavaScript has some built-in symbols which allow the developer to access some pr
 
 ### `Symbol.match`
 
-![width:1000](./pictures/js_symbols-2020_Q1/match.png)
+![width:1000](./pictures/js_symbols/match.png)
 
 ---
 
@@ -253,19 +253,19 @@ JavaScript has some built-in symbols which allow the developer to access some pr
 
 ### **Object Metadata**
 
-![width:1000](./pictures/js_symbols-2020_Q1/dictionary.png)
+![width:1000](./pictures/js_symbols/dictionary.png)
 
 ---
 
 ### **Object Metadata and avoiding property name collision**
 
-![width:1000](./pictures/js_symbols-2020_Q1/dictionary_1.png)
+![width:1000](./pictures/js_symbols/dictionary_1.png)
 
 ---
 
 ### **Iterator**
 
-![width:700](./pictures/js_symbols-2020_Q1/iterator.png)
+![width:700](./pictures/js_symbols/iterator.png)
 
 ---
 
@@ -277,4 +277,4 @@ JavaScript has some built-in symbols which allow the developer to access some pr
 
 <span style="font-size: 15px; color: grey;">Checkout the JS symbols article on my medium</span>
 
-![bg left width:500](./pictures/js_symbols-2020_Q1/twitter_qr.jpeg)
+![bg left width:500](./pictures/js_symbols/twitter_qr.jpeg)
