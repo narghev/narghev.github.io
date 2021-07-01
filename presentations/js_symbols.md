@@ -187,6 +187,17 @@ Note: <span style="color: var(--blue)">Symbol</span> is <span style="color: var(
 
 ---
 
+<span class="title">Motivation</span>
+
+# Recap
+
+- Primitive Data Type
+- Unique Values
+- Property Key
+- Weak Encapsulation
+
+---
+
 <span class="title">Problem Solved?</span>
 
 Okay, so <span style="color: var(--blue)">**Symbol**</span>s are cool. They help us make <span style="color: var(--red)">**unique**</span> values that can never be repeated and use them to hide properties.
@@ -296,9 +307,25 @@ Symbols are <span style="color: var(--red); font-size: 60px;">NOT</span> the sam
 
 ---
 
+<span class="title">Known JS Symbols</span>
+
+### `Symbol.toPrimitive`
+
+![width:500](./pictures/js_symbols/toPrimitive.png)
+
+---
+
 <span class="title">Benefits</span>
 
 # Benefiting from <span style="color: yellow;">JavaScript</span> symbols
+
+---
+
+<span class="title">Benefits</span>
+
+### **toPrimitive**
+
+![width:750](./pictures/js_symbols/toPrim.png)
 
 ---
 
