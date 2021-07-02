@@ -110,7 +110,7 @@ Object.prototype[Symbol.iterator] = function* () {
 
 - Primitive DataType
 - Added in 2015 with <span style="color: var(--blue)">**ES6**</span>
-- to act as a unique identifier of object properties
+- To act as a unique identifier of object properties
   - <span style="font-size: 25px;">**_Imagine_** _Big random numbers (uuid) as keys of an object_</span>
 
 ---
@@ -238,7 +238,7 @@ Object.getOwnPropertySymbols();
 
 ### <span style="color: var(--yellow)">JavaScript</span> vs <span style="color: var(--red)">Ruby</span>
 
-- We can replicate the Ruby symbol behavior by creating a symbol in the global symbol registry.
+- We can replicate the Ruby symbol behavior by creating a symbol in the global symbol registry
 - Ruby symbols can be used instead of strings
 
 ---
@@ -357,6 +357,6 @@ Symbols are <span style="color: var(--red); font-size: 60px;">NOT</span> the sam
 
 <span style="color: var(--blue); font-weight: bold;">@narghev</span>
 
-<span style="font-size: 15px; color: var(--grey);">Check out the JS symbols article on my medium</span>
+<span style="font-size: 15px; color: var(--grey);">Check out the JS symbols article on my Medium</span>
 
 ![bg left width:400](./pictures/global/twitter-qr-4.png)
